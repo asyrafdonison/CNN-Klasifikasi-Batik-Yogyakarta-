@@ -6,3 +6,4 @@ Dataset Batik dapat diunduh di Kaggle dan roboflow Berikut linknya:
 
 - Install Python terlebih dahulu di Pc anda 
 - buat environment khusus pada directory file project python notebook
+- atau buka file python notebook di google collab
